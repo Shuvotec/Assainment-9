@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c7da4a6.css",
+    "main.js": "/static/js/main.d7f25407.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/1-github-explained.webp": "/static/media/1-github-explained.41d987773abcfde3a4ac.webp",
+    "static/media/CSS3-scaled.jpg": "/static/media/CSS3-scaled.1d71019d6f5bb0c4975c.jpg",
+    "static/media/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png": "/static/media/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.24df72f825ffc69a82f0.png",
+    "static/media/Picture4-1-1024x242_3.png": "/static/media/Picture4-1-1024x242_3.62a96c94602d6295d974.png",
+    "static/media/Ekran-Resmi-2019-11-18-18.08.13.png": "/static/media/Ekran-Resmi-2019-11-18-18.08.13.eb0f58cf7cb8f4d8912b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3c7da4a6.css.map": "/static/css/main.3c7da4a6.css.map",
+    "main.d7f25407.js.map": "/static/js/main.d7f25407.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7da4a6.css",
+    "static/js/main.d7f25407.js"
+  ]
+}
